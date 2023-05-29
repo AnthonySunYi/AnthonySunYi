@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Anthony and just a amateur developer learning how to navigate my way. 👋
 
 <!--
 **AnthonySunYi/AnthonySunYi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
